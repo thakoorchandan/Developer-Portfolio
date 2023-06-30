@@ -6,7 +6,6 @@ import strawberrynet from './public/images/Strawberrynet.png';
 import {
   EducationType,
   ExperienceType,
-  FeedbackType,
   ProjectType,
   SkillsSectionType,
   SkillBarsType,
